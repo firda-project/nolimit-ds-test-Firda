@@ -2,12 +2,15 @@
 
 ## Overview
 This project tackles **multi-class text classification** in the mental health domain.  
-The dataset contains short user posts labeled into 5 categories:
+The dataset contains short user posts labeled into 7 categories:
 - **normal**
 - **depression**
 - **suicidal**
 - **bipolar**
 - **anxiety**
+- **stress**
+- **personality disorder**
+Dataset: https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health/data
 
 ### Test Requirements Covered
 - ✅ **Use Hugging Face models** → SBERT (`all-MiniLM-L6-v2`) from `sentence-transformers`.

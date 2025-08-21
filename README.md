@@ -51,6 +51,13 @@ Dataset: https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for
 
 ---
 
+## Flowchart
+<img width="850" height="385" alt="image" src="https://github.com/user-attachments/assets/e681ae5c-cacc-4169-a3ef-9231fa406bb0" />
+
+Source:https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FFlow-chart-for-machine-learning-workflow_fig1_342778782&psig=AOvVaw024vSCZp_T3v8xL9owpNTT&ust=1755831766336000&source=images&cd=vfe&opi=89978449&ved=0CBgQjhxqFwoTCMjvvpf1mo8DFQAAAAAdAAAAABAK
+
+---
+
 ## How to Run
 1. Install requirements:
    ```bash
